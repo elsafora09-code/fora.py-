@@ -1,16 +1,12 @@
-
 print("PROGRAM INPUT DATA")
 
-nama = input("Elsa Fora  : ")
-nim = input("3094232918    : ")
-alamat = input("Semanak : ")
+nama = input("Nama kamu siapa: ")
+nISN = input("NISN kamu berapa: ")
+kelas = input("kamu kelas berapa: ")
+alamat = input("Alamat kamu dimana: ")
 
-print("\n================================")
-print("           HASIL DATA")
-print("================================")
-
-print("Nama   :", nama)
-print("NIM    :", nim)
-print("Alamat :", alamat)
-
-print("================================")
+print("\nHASIL INPUT DATA")
+print("Nama :", nama)
+print("NISN :", nISN)
+print("Kelas:", kelas)
+print("Alamat:", alamat)
